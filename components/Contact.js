@@ -62,7 +62,8 @@ const Contact = () => {
             <div className="contact__title">
               <h2 className="section__title">
                 <span>Ready to get our</span>
-                marketing services
+                <br/>
+                web and IT services
               </h2>
               <div className="contact__title-icon">
                 <Link href="#contact">
