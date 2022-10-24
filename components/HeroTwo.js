@@ -9,7 +9,7 @@ const HERO_DATA = [
     serviceIcon: "/assets/images/icon/s2-icon-1.png",
     serviceTitle: "UI/UX Design",
     serviceDesc: "We will work with you to design influential websites & apps that fit your brand image to help drive online presence.",
-    serviceLink: "/services-details",
+    serviceLink: "/about",
     bgClass: "single__bg-pink",
     iconClass: "single__service-icon-pink",
     btnClass: "s-btn-pink"
@@ -18,7 +18,7 @@ const HERO_DATA = [
     serviceIcon: "/assets/images/icon/s2-icon-2.png",
     serviceTitle: "Web Development",
     serviceDesc: "Mobile-friendly and dynamic websites & apps using the latest in HTML, CSS, and JavaScript technology.",
-    serviceLink: "/services-details",
+    serviceLink: "/about",
     bgClass: "single__bg-yellow",
     iconClass: "single__service-icon-yellow",
     btnClass: "s-btn-yellow"
@@ -27,7 +27,7 @@ const HERO_DATA = [
     serviceIcon: "/assets/images/icon/s2-icon-3.png",
     serviceTitle: "IT Consulting",
     serviceDesc: "Assistance in setting up your organization and networking needs through either cloud-based or on-premises hardware.",
-    serviceLink: "/services-details",
+    serviceLink: "/about",
     bgClass: "single__bg-green",
     iconClass: "single__service-icon-green",
     btnClass: "s-btn-green"
