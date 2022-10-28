@@ -32,10 +32,11 @@ const Mission = () => {
           <Col xl={12}>
             <div className="mission__counter">
               <div className="mission__counter-content text-center">
+                <p>Up to</p>
                 <h2>
                   <CountUp end={100} duration={5} />%
                 </h2>
-                <p>Discounts for <br/> select organizations</p>
+                <p>Discounts for <br/> select charitable <br/> organizations</p>
               </div>
             </div>
             <div className="mission__counter mission__counter-2">
